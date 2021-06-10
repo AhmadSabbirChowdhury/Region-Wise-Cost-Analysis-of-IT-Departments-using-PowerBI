@@ -27,3 +27,6 @@ Later in the PowerBI, I used the above data to build some additional table datas
 
 ##### iv. Decomposition Tree
 ![4  Decomposition Tree](https://user-images.githubusercontent.com/45898995/121475807-b5396d00-c9e7-11eb-8a2e-496f5ff5da8b.PNG)
+
+
+##### Note: *The PowerBI online publishing link isn't available right now because of subscription issues. I'll add that online link soon, so anyone can open it and interact with it as the whole thing is very dynamic.*
